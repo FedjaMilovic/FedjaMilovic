@@ -1,36 +1,8 @@
-## Hi there 👋
-# 👋 Merhaba, ben [Adın]!
 
-🎮 Godot ile oyun geliştiriyorum ve yazılım dünyasına tutkuyla bağlıyım. Projelerimi GitHub üzerinden paylaşıyor, sürekli öğrenerek kendimi geliştiriyorum.
+<h1 align="center">Merhaba 👋, ben Fedja</h1>
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+</p>
 
-## 💻 Hakkımda
-
-- 🧠 **C#** ve **Java** dillerine hakîmim
-- 🗃️ **MySQL** ile veritabanı uygulamaları geliştiriyorum
-- 🎮 **Godot Engine** kullanarak 2D ve 3D oyun projeleri üzerinde çalışıyorum
-- 🌱 Şu anda daha derinlemesine **game design**, **networking** ve **veri yapıları** üzerine odaklanıyorum
-
-## 🚀 Aktif Olduğum Teknolojiler
-
-- **Diller:** C#, Java, GDScript, SQL
-- **Motorlar:** Godot Engine
-- **Veritabanı:** MySQL
-- **Araçlar:** Git, Visual Studio, VS Code
-
-## 📂 Bazı Projelerim
-
-- 🎲 **[Proje Adı]** – [Kısa açıklama]
-- 🔧 **[Proje Adı]** – [Kısa açıklama]
-> 👉 GitHub reposuna bağlantılar ekleyebilirim.
-
-## 📫 Bana Ulaş
-
-- E-posta: [e-posta adresin]
-- LinkedIn: [bağlantı]
-- Discord: [kullanıcı adın] _(isteğe bağlı)_
-
----
-
-Teşekkürler! Bu sayede daha fazla geliştirici seni tanıyabilir, projelerine katkı sağlayabilir.
-
-
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" genişlik="40" yükseklik="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" genişlik="40" yükseklik="40"/> </a> </p>
